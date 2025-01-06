@@ -1,0 +1,20 @@
+body{
+    /* background-color: bisque; */
+    background-image: url("https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRHxzb2nRgNinizHjwSdmYek_pSOo9MT7TWUI6YeAez66FXQ7So1zllFG4oEKrjgs7yBOnCsuvH9iX9DwL4jmoLCEWX_Ua-eulmvTnU4EcT");
+    /* background-repeat: no-repeat; */
+    /* background-repeat: repeat-x; */
+    /* background-repeat: repeat-y; */
+    background-repeat: no-repeat;
+   
+}
+img{
+    border-radius: 5%;
+    
+}
+.spicy-rice-regular {
+    font-family: "Spicy Rice", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+
